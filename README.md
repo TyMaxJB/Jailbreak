@@ -23,7 +23,7 @@ For other Devices running 17.3 to 17.2  > Try
 [Downlad TyMax](https://silzee.com/redirect/TyMax/)
 
 
-# TyMax Jailbreak Guide - Super Easy 
+# TyMax 17.3 - 17.2  Jailbreak Guide - Super Easy 
 
 Jailbreaking with TyMax is super easy. Follow the below guide normal mode and use the Safari browser ( Not macOS Safari )
 
