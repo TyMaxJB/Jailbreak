@@ -16,6 +16,10 @@ iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max
 iPhone XR iPhone SE 2, iPhone SE 3 
 iPhone XS , iPhone XS Max
 
+https://silzee.com/17.2/assets/img/tymax172.png
+
+
+
 # TyMax Jailbreak Guide - Super Easy 
 
 Jailbreaking with TyMax is super easy. Follow the below guide normal mode and use the Safari browser ( Not macOS Safari )
