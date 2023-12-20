@@ -1,7 +1,7 @@
 # TyMax Jailbreak iOS 17.3 - 17.2
 
 
-TyMax semi-jailbreak is the solution to get preferred package manager for iOS 17.3 and iOS 17.2.
+TyMax semi-jailbreak is the solution to get preferred package manager for [iOS 17.3](https://silzee.com/17.3/) and [iOS 17.2](https://silzee.com/17.2/).
 
 # Devices for TyMax
 
