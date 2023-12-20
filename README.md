@@ -18,6 +18,8 @@ iPhone XS , iPhone XS Max
 
 ![TyMax Jailbreak](https://silzee.com/17.2/assets/img/tymax172.png)
 
+[Downlad TyMax](https://silzee.com/redirect/TyMax/)
+
 
 # TyMax Jailbreak Guide - Super Easy 
 
