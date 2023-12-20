@@ -3,7 +3,7 @@
 
 TyMax semi-jailbreak is the solution to get preferred package manager for iOS 17.3 and iOS 17.2.
 
-<title>Devices for TyMax</title>
+# Devices for TyMax
 
 The TyMax only supportive below Devices ( Only )  to get preferred package manager ( Sileo / Zebra / Cydia )
 
