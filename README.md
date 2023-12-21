@@ -103,8 +103,13 @@ If you do not like Cydia / Sileo - Then try Zebra
 
 TyMax is the latest jailbreak solution for iOS 17.3 / 17.2.1 and iOS 17.2. Here is the FAQ about the TyMax jailbreak.
 
-* Q -  Is TyMax Untethered / Tethered jailbreak
-* A-  No,TyMax is a semi jailbreak solution
+
+Q -  Is TyMax Untethered / Tethered jailbreak
+
+
+
+A-  No,TyMax is a semi jailbreak solution
+
 
 
 Q -  Can Apple detect TyMax Jailbreak
@@ -112,7 +117,13 @@ Q -  Can Apple detect TyMax Jailbreak
 
 A-  No Apple cannot detect TyMax jailbreak because it is semi-jailbreak
 
+
+
+
 Q -  Can i claim Apple warranty once download TyMax
+
+
+
 A-  Yes,you can claim Apple warranty anytime 
 
 Q -  Can install TrollStore / Misaka from the TyMax
