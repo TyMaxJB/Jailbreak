@@ -126,15 +126,27 @@ Q -  Can i claim Apple warranty once download TyMax
 
 A-  Yes,you can claim Apple warranty anytime 
 
+
 Q -  Can install TrollStore / Misaka from the TyMax
+
+
 A-  No,you cannot install TrollStore / Misaka from the TyMax
 
+
 Q -  Can remove TyMax jailbreak
+
+
 A-  Yes,you can remove TyMax anytime
 
+
 Q -  Do i need PC to download TyMax
+
+
 A-  The TyMax is an online solution. You do not need a PC to install it.
 
+
 Q -  I do not have sideload tool,then how to install TyMax
+
+
 A-  The TyMax is a online method and not a IPA tool
 
